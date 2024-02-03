@@ -18,50 +18,51 @@
 ###
 
 <div align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   </a>
   <img width="12" />
-  <a href="https://www.typescriptlang.org/">
+  <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   </a>
   <img width="12" />
-  <a href="https://reactjs.org/">
+  <a href="https://reactjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   </a>
   <img width="12" />
-  <a href="https://nextjs.org/">
+  <a href="https://nextjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   </a>
   <img width="12" />
-  <a href="https://nodejs.org/">
+  <a href="https://nodejs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   </a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   </a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   </a>
   <img width="12" />
-  <a href="https://getbootstrap.com/">
+  <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
   </a>
   <img width="12" />
-  <a href="https://tailwindcss.com/">
+  <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
   </a>
   <img width="12" />
-  <a href="https://material-ui.com/">
+  <a href="https://material-ui.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo" />
   </a>
   <img width="12" />
-  <a href="https://sass-lang.com/">
+  <a href="https://sass-lang.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" />
   </a>
 </div>
+
 
 ###
 
