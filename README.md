@@ -1,6 +1,6 @@
 
 ###
-<p align="center"><img src="https://i.ibb.co/GRJZXYJ/Pngtree-code-programming-5400199.png" alt="project"></p>
+<p align="center"><img src="https://i.ibb.co/GRJZXYJ/Pngtree-code-programming-5400199.png" alt="project" style="max-height: 100px"></p>
 <h1 align="left">Hi 👋, I'm Moustafa El-Sayed ♥</h1>
 ###
 
