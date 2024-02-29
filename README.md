@@ -1,6 +1,6 @@
 
 ###
-<p align="center"> <img src="https://i.ibb.co/TbkZ5Gr/coding-languages.webp"  height="300&quot;/" alt="javascript logo" />
+<p align="center"> <img src="https://i.ibb.co/TbkZ5Gr/coding-languages.webp" width="1000" height="300&quot;/" alt="javascript logo" />
 </p>
 <h1 align="left">Hi 👋, I'm Moustafa El-Sayed ♥</h1>
     
