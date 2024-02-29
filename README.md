@@ -1,7 +1,7 @@
 
 ###
 <h1 align="left">Hi 👋, I'm Moustafa El-Sayed ♥</h1>
- <img src="https://i.ibb.co/TbkZ5Gr/coding-languages.webp" height="100" alt="javascript logo" />
+ <img src="https://i.ibb.co/TbkZ5Gr/coding-languages.webp" width="800" height="400&quot;/" alt="javascript logo" />
     
 
 ###
