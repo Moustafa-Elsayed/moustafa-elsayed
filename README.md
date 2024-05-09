@@ -3,10 +3,8 @@
 <p align="center"> <img src="https://i.ibb.co/TbkZ5Gr/coding-languages.webp" width="1000" height="300&quot;/" alt="javascript logo" />
 </p>
 <h1 align="left">Hi 👋, I'm Moustafa El-Sayed ♥</h1>
-
 ###
 <p align="left">I’m Front End Developer Working With ReactJS,NextJs,and constantly learning React Native....</p>
-
 ###
 
 <p align="left">🔭 I’m currently working on ReactJs,React Native ...<br>📱 I'm a mobile developer working with React Native, and constantly learning more ..<br>🌱 I'm experienced with JavaScript, TypeScript, Sass, and frameworks like Bootstrap and Tailwind ..<br>📫 I'm passionate about creating fully responsive websites<br>😄 Check out my website at <a href="https://moustafa-elsayed-portoflio.vercel.app/" target="_blank" rel="noopener noreferrer"> My Portfolio</a>  <br>✨ I'm constantly learning new technologies, improving my coding, and working on new projects that will soon be added to my portfolio<br>💬 Ask me anything about frontend development or mobile native apps<br>⚡ I'm always on the lookout for new opportunities<br>📫 Check out  <a href="https://docs.google.com/document/d/1lgs-pM4PBlHQPKYhpIIq8xt6fy_IK50GVvrgBfznGTo/edit" target="_blank" rel="noopener noreferrer"> my CV</a>
