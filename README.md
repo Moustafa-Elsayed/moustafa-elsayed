@@ -1,83 +1,47 @@
+<p align="left"><strong>SENIOR FRONTEND DEVELOPER</strong></p>
 
-###
-<p align="center"> <img src="https://i.ibb.co/TbkZ5Gr/coding-languages.webp" width="1000" height="300&quot;/" alt="javascript logo" />
+# Mostafa Elsayed
+
+I build production interfaces with **React, Next.js, and TypeScript**.
+
+**6 years of experience** across ERP, B2B, and e-commerce products, with a focus on frontend architecture, performance, and accessible user experiences.
+
+[LinkedIn](https://www.linkedin.com/in/mostafa-elsayed6768) · [Email](mailto:moelsayed6768@gmail.com)
+
+![Abstract interface architecture: reusable components connected to a responsive product UI](./assets/frontend-systems.svg)
+
+## How I build
+
+- **Maintainable foundations:** reusable components, clear state management, and REST API integration.
+- **Thoughtful interfaces:** responsive layouts, multilingual experiences, and accessible interactions.
+- **Quality in delivery:** performance optimization, unit and component testing, and code reviews.
+
+## Core toolkit
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" width="36" height="36" alt="React" title="React" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" title="Next.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" title="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />
 </p>
-<h1 align="left">Hi 👋,  I'm Moustafa El-Sayed ♥</h1> 
-     
-###
-<p align="left">I’m Front End Developer Working With ReactJS,NextJs,and constantly learning React Native....</p>
- 
-###
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/redux/redux-original.svg" width="36" height="36" alt="Redux Toolkit" title="Redux Toolkit" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/materialui/materialui-original.svg" width="36" height="36" alt="Material UI" title="Material UI" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/jest/jest-plain.svg" width="36" height="36" alt="Jest" title="Jest" />
+</p>
 
-<p align="left">🔭  I’m currently working on ReactJs,React Native ...<br>📱 I'm a mobile developer working with React Native, and constantly learning more ..<br>🌱 I'm experienced with JavaScript, TypeScript, Sass, and frameworks like Bootstrap and Tailwind ..<br>📫 I'm passionate about creating fully responsive websites<br>😄 Check out my website at <a href="https://personal-portfolio-two-navy.vercel.app/" target="_blank" rel="noopener noreferrer"> My Portfolio</a>  <br>✨ I'm constantly learning new technologies, improving my coding, and working on new projects that will soon be added to my portfolio<br>💬 Ask me anything about frontend development or mobile native apps<br>⚡ I'm always on the lookout for new opportunities<br>📫 Check out  <a href="https://drive.google.com/file/d/17jSDRzsj56d6hBEx4_o9Y2VRwCmb4Pip/view?usp=sharing" target="_blank" rel="noopener noreferrer"> My Resume</a>
+**Frontend** · React · Next.js · TypeScript · JavaScript  
+**State and APIs** · Redux Toolkit · REST APIs · Axios · i18next  
+**UI** · Tailwind CSS · Material UI · shadcn/ui  
+**Quality** · Jest · React Testing Library · Web Vitals
 
-###
+---
 
-<h2 align="left">🛠️  Languages and Tools:</h2>   
-
-###
-
-<div align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  </a>
-  <img width="12" />
-  <a href="https://reactjs.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  </a>
-  <img width="12" />
-  <a href="https://nextjs.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  </a>
-  <img width="12" />
-  <a href="https://nodejs.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  </a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  </a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  </a>
-  <img width="12" />
-  <a href="https://getbootstrap.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  </a>
-  <img width="12" />
-  <a href="https://tailwindcss.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
-  </a>
-  <img width="12" />
-  <a href="https://material-ui.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo" />
-  </a>
-  <img width="12" />
-  <a href="https://sass-lang.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" />
-  </a>
-</div>
-
- 
-
-
-###
-
-<h2 align="left">📫 Contact</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mostafa-hashem-1b43822b9/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
- <a href="https://wa.me/201002602130"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" /></a>
-  <a href="https://t.me/01002602130"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" /></a>
-  <a href="mailto:moelsayed949@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" /></a>
-</div>
-
-
-###
+[Connect on LinkedIn](https://www.linkedin.com/in/mostafa-elsayed6768) · [moelsayed6768@gmail.com](mailto:moelsayed6768@gmail.com)

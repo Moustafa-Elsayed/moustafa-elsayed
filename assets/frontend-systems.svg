@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Frontend systems</title>
+<desc id="desc">Reusable interface components and state connect to a responsive product dashboard.</desc>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#243A42" stroke-width="1"/></pattern><linearGradient id="bg" x2="1200" y2="240" gradientUnits="userSpaceOnUse"><stop stop-color="#10272E"/><stop offset="1" stop-color="#14202E"/></linearGradient></defs>
+<rect width="1200" height="240" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="240" rx="18" fill="url(#grid)" opacity=".55"/>
+<g stroke="#5FCBA8" stroke-width="2" opacity=".6"><path d="M275 74H360V120H490"/><path d="M275 166H360V120"/><path d="M710 120H796"/><circle cx="360" cy="120" r="5" fill="#5FCBA8"/></g>
+<g fill="#18343C" stroke="#42636B"><rect x="100" y="40" width="175" height="66" rx="10"/><rect x="100" y="134" width="175" height="66" rx="10"/><rect x="490" y="64" width="220" height="112" rx="12"/></g>
+<g fill="#79D7B8"><rect x="123" y="60" width="32" height="26" rx="5"/><rect x="123" y="154" width="32" height="26" rx="5"/><rect x="174" y="63" width="74" height="7" rx="3.5"/><rect x="174" y="157" width="74" height="7" rx="3.5"/></g>
+<g fill="#698790"><rect x="174" y="79" width="52" height="5" rx="2.5"/><rect x="174" y="173" width="52" height="5" rx="2.5"/></g>
+<g stroke="#9BE5CD" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><path d="m552 102-18 18 18 18m96-36 18 18-18 18m-40-42-16 48"/></g>
+<rect x="796" y="28" width="300" height="184" rx="12" fill="#E8F4EF"/>
+<path d="M808 28h276a12 12 0 0 1 12 12v20H796V40a12 12 0 0 1 12-12Z" fill="#BCD8CE"/>
+<g fill="#52786D"><circle cx="816" cy="44" r="4"/><circle cx="830" cy="44" r="4"/><circle cx="844" cy="44" r="4"/></g>
+<rect x="814" y="78" width="55" height="116" rx="5" fill="#CDE4DB"/>
+<g fill="#659B8B"><rect x="825" y="91" width="32" height="5" rx="2.5"/><rect x="825" y="108" width="25" height="5" rx="2.5"/><rect x="825" y="125" width="30" height="5" rx="2.5"/></g>
+<rect x="885" y="78" width="190" height="28" rx="5" fill="#CDE4DB"/>
+<rect x="885" y="120" width="87" height="74" rx="5" fill="#CDE4DB"/>
+<rect x="985" y="120" width="90" height="74" rx="5" fill="#CDE4DB"/>
+<path d="m897 177 18-18 15 8 29-29" stroke="#2E8168" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#659B8B"><rect x="998" y="167" width="12" height="15" rx="2"/><rect x="1017" y="151" width="12" height="31" rx="2"/><rect x="1036" y="138" width="12" height="44" rx="2"/></g>
+</svg>
